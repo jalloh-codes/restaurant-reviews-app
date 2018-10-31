@@ -1,7 +1,7 @@
 ## Udacity Front-End Nanodegree project
-======================================
+
 ## About The Project
-========================
+
 This project is for the Udacity front-end Nanodegree program. A start code was giving to the student. The student's job is to add a service worker for the application to work offline and make it mobile responsive.
 
 ## How to run the application

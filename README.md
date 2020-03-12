@@ -1,5 +1,5 @@
 ## Udacity Front-End Nanodegree project
-
+  Life demo https://jalloh-codes.github.io/restaurant-reviews-app/.
 ## About The Project
 
 This project is for the Udacity front-end Nanodegree program. A start code was giving to the student. The student's job is to add a service worker for the application to work offline and make it mobile responsive.

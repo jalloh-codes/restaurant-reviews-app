@@ -9,5 +9,8 @@ Before you clone the application to you local machine make sure you have `python
 
 * clone the project to your machine
 * change the directory to the current project
-* on the terminal type `python -m http.server 8000`
+* on the terminal type `python -m SimpleHTTPServer 8000`
 * open your browser(`chrome`) type `localhost:8000`
+
+## Project Dependencies
+Part one of the project https://github.com/udacity/mws-restaurant-stage-1
